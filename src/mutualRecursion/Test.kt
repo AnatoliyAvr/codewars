@@ -1,6 +1,6 @@
 package mutualRecursion
 
-import kotlin.test.assertEquals
+import junit.framework.Assert.assertEquals
 import org.junit.Test
 
 class TestExample {
